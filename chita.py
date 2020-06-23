@@ -1,3 +1,7 @@
+# we can easily speed up the execution time by playing around with our code; here i have used numexpr library instead of numpy to execute arithmetic expressions
+
+
+
 import timeit
 import numexpr as ne
 import pandas as pd
